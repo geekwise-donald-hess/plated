@@ -13,6 +13,7 @@ body{
     margin: 0;
     padding: 0;
     background-color: #ffffff;
+    border-bottom: solid 1px aqua;
     
 }
 
@@ -33,6 +34,27 @@ header{
     float: left;
     
 }
+
+#head_left{
+    width:30%;
+    height:100%;
+    float:left;
+    background-color:#ff4338;
+}
+#head_center{
+    width:40%;
+    height:100%;
+    float:left;
+    background-color:blue;
+}
+
+#head_right{
+    width:30%;
+    height:100%;
+    float:right;
+    background-color:aqua;
+}
+
 
 
     
